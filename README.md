@@ -1,7 +1,7 @@
-# [Guiding Large Language Models to Fool Themselves: Automatically Manipulating Machine Reading Comprehension Shortcut Triggers](https://arxiv.org/abs/2310.18360)
+# [Guiding LLM to Fool Itself: Automatically Manipulating Machine Reading Comprehension Shortcut Triggers](https://arxiv.org/abs/2310.18360)
 
 ## TL;DR 
-This study exposes the vulnerabilities of Large Language Models (LLMs) in Machine Reading Comprehension tasks, focusing on their susceptibility to shortcut triggers. The research utilizes GPT-4 both as an editor to insert these triggers and as a reader to respond to questions. The study reveals that GPT-4 can successfully insert shortcut triggers that deceive even itself, resulting in a 15% drop in F1 score. A framework for this editing process is introduced, and we release ShortcutQA, a dataset for future research. Accepted to EMNLP Findings 2023.
+This study exposes the vulnerabilities of Large Language Models (LLMs) in Machine Reading Comprehension tasks, focusing on their reliance on shortcuts. The research utilizes GPT-4 both as an editor to insert shortcut triggers in texts and as a reader to respond to questions. The study reveals that GPT-4 can successfully insert shortcut triggers that deceive even itself, resulting in a 15% drop in F1 score. A framework for this editing process is introduced, and we release ShortcutQA, a dataset for future research. Accepted to EMNLP Findings 2023.
 
 ## Repository Contents
 
